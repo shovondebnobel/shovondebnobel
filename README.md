@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @shovondebnobel
 - My profile is at https://shovondebnobel.github.io/portfolio.html
+- Send me mail to sdebnobel@gmail.com
